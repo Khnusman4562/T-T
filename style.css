@@ -144,22 +144,22 @@ a.menus{
   img.icon.nav-icon.bag {
     height: 35px;
 }
-.delivary{
+.delivery{
     text-align: left;
     font-size: 5rem;
     position: relative;
 }
-.delivarys{
+.deliverys{
     font-size: 1.5rem;
     text-decoration: underline 1px;
 }
-.delivary-name{
+.delivery-name{
     font-size: 1rem;
 }
-.delivary-address{
+.delivery-address{
     font-size: 0.9rem;
 }
-.delivary-change{
+.delivery-change{
     position: absolute;
     margin-left: 80%;
 color: gray;
